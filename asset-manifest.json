@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-beginner-innovation/static/css/main.11555b92.chunk.css",
+    "main.js": "/react-beginner-innovation/static/js/main.f0f4a859.chunk.js",
+    "main.js.map": "/react-beginner-innovation/static/js/main.f0f4a859.chunk.js.map",
+    "runtime-main.js": "/react-beginner-innovation/static/js/runtime-main.314f571d.js",
+    "runtime-main.js.map": "/react-beginner-innovation/static/js/runtime-main.314f571d.js.map",
+    "static/js/2.bc82517a.chunk.js": "/react-beginner-innovation/static/js/2.bc82517a.chunk.js",
+    "static/js/2.bc82517a.chunk.js.map": "/react-beginner-innovation/static/js/2.bc82517a.chunk.js.map",
+    "static/js/3.72e53624.chunk.js": "/react-beginner-innovation/static/js/3.72e53624.chunk.js",
+    "static/js/3.72e53624.chunk.js.map": "/react-beginner-innovation/static/js/3.72e53624.chunk.js.map",
+    "index.html": "/react-beginner-innovation/index.html",
+    "static/css/main.11555b92.chunk.css.map": "/react-beginner-innovation/static/css/main.11555b92.chunk.css.map",
+    "static/js/2.bc82517a.chunk.js.LICENSE.txt": "/react-beginner-innovation/static/js/2.bc82517a.chunk.js.LICENSE.txt",
+    "static/media/piglet.e32871f7.png": "/react-beginner-innovation/static/media/piglet.e32871f7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.314f571d.js",
+    "static/js/2.bc82517a.chunk.js",
+    "static/css/main.11555b92.chunk.css",
+    "static/js/main.f0f4a859.chunk.js"
+  ]
+}
